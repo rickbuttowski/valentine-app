@@ -21,90 +21,90 @@ function Memories({ onBack }) {
     {
       id: 2,
       title: "First Trip Together",
-      date: "December 12, 2025",
-      description: "Dropping you to college, cherishing every moment on the way. These simple rides mean everything to me.",
+      date: "August 15, 2025",
+      description: "Our first ride to Siswan dam. These simple trips mean everything to me.",
       emoji: "🏍️",
-      photo: "/memories/first_photo.jpg"
+      photo: "/memories/first_photo.jpeg"
     },
     {
       id: 3,
+      title: "Our Sukhna Adventures",
+      date: "August 15, 2025",
+      description: "More beautiful moments from our visit to Sukhna Lake. Every step with you is a memory I treasure.",
+      emoji: "🚣",
+      photo: "/memories/sukhna.jpg"
+    },
+    {
+      id: 4,
+      title: "First movie together",
+      date: "August 24, 2025",
+      description: "You have this special way of fixing everything, including my happiness. You're my remedy.",
+      emoji: "🎥",
+      photo: "/memories/20-12-2025_eve_fixing_happines.jpg"
+    },
+    {
+      id: 5,
+      title: "Birthday celebration",
+      date: "August 30, 2025",
+      description: "Capturing more precious moments as we my birthday, creating memories that last forever.",
+      emoji: "🎂",
+      photo: "/memories/birthday.jpg"
+    },
+    {
+      id: 6,
+      title: "Our Engagement",
+      date: "October 19, 2025",
+      description: "In solitude, we found each other. In togetherness, we found peace. Two paths, slowly becoming one — On the day I placed the ring on your finger.",
+      emoji: "💍",
+      photo: "/memories/eng.jpg"
+    },
+    {
+      id: 7,
+      title: "First stay together",
+      date: "October 27, 2025",
+      description: "Our first stay together, memory I will cherish for all my life. Our bond grew even stronger after the stay.",
+      emoji: "🏨",
+      photo: "/memories/fst.jpg"
+    },
+    {
+      id: 8,
+      title: "Temple Ride",
+      date: "November 23, 2025",
+      description: "Our spiritual journey together. Seeking blessings from Maa Shoolini for our beautiful future.",
+      emoji: "🙏",
+      photo: "/memories/tr.jpg"
+    },
+    {
+      id: 9,
       title: "Walk At Zoo",
       date: "December 20, 2025",
       description: "Exploring the zoo together, discovering new wonders hand in hand.",
       emoji: "🦁",
-      photo: "/memories/20-12-2025_walk_at_zoo.JPG"
-    },
-    {
-      id: 4,
-      title: "Our Sukhna Adventures",
-      date: "December 20, 2025",
-      description: "More beautiful moments from our zoo adventure. Every step with you is a memory I treasure.",
-      emoji: "🐘",
-      photo: "/memories/20-12-2025_walk_at_zoo2.JPG"
-    },
-    {
-      id: 5,
-      title: "My birthday celebration",
-      date: "December 20, 2025",
-      description: "Capturing more precious moments as we walked through the zoo, creating memories that last forever.",
-      emoji: "🦒",
-      photo: "/memories/20-12-2025_walk_at_zoo3.jpg"
-    },
-    {
-      id: 6,
-      title: "First movie together",
-      date: "December 20, 2025",
-      description: "You have this special way of fixing everything, including my happiness. You're my remedy.",
-      emoji: "✨",
-      photo: "/memories/20-12-2025_eve_fixing_happines.jpg"
-    },
-    {
-      id: 7,
-      title: "Temple Ride",
-      date: "January 4, 2026",
-      description: "Our spiritual journey together. Seeking blessings for our beautiful future.",
-      emoji: "🙏",
-      photo: "/memories/04-01-2026_temple_ride.jpg"
-    },
-    {
-      id: 8,
-      title: "First stay together",
-      date: "January 4, 2026",
-      description: "Our temple ride where we found something precious we thought was lost. Sometimes the journey brings unexpected blessings.",
-      emoji: "🔍",
-      photo: "/memories/04-01-2026_temple_ride_finding_something_lost.jpg"
-    },
-    {
-      id: 9,
-      title: "Sharing Laughter Together",
-      date: "January 4, 2026",
-      description: "Those moments when we just laugh together, finding joy in the simplest things. Your laughter is my favorite sound.",
-      emoji: "😄",
-      photo: "/memories/04-01-2026_sharing_laughter_toghether.jpg"
+      photo: "/memories/zoo.jpg"
     },
     {
       id: 10,
-      title: "Finding Paths of Solitude Together : Our Engagement",
-      date: "January 4, 2026",
-      description: "In solitude, we found each other. In togetherness, we find peace. Walking paths that lead us closer.",
-      emoji: "🌅",
-      photo: "/memories/04-01-2026_finding_paths_of_solitude_toghether.jpg"
+      title: "First Christmas together",
+      date: "December 25, 2025",
+      description: "Our first Christmas together, wrapped in love, laughter, and the joy of beginning traditions that are now ours.",
+      emoji: "🎄",
+      photo: "/memories/christmas.jpg"
     },
     {
       id: 11,
-      title: "First Christmas together",
-      date: "January 4, 2026",
-      description: "In solitude, we found each other. In togetherness, we find peace. Walking paths that lead us closer.",
-      emoji: "🌅",
-      photo: "/memories/04-01-2026_finding_paths_of_solitude_toghether.jpg"
+      title: "A new year dedicated to US",
+      date: "January 1, 2026",
+      description: "A new year dedicated to us, to shared dreams, quiet mornings, and a future we're building together.",
+      emoji: "👩🏻‍❤️‍👨🏻",
+      photo: "/memories/new.jpg"
     },
     {
       id: 12,
-      title: "A new year dedicated to us",
-      date: "January 4, 2026",
-      description: "In solitude, we found each other. In togetherness, we find peace. Walking paths that lead us closer.",
-      emoji: "🌅",
-      photo: "/memories/04-01-2026_finding_paths_of_solitude_toghether.jpg"
+      title: "Sharing Laughter Together",
+      date: "Forever",
+      description: "Those moments when we just laugh together, finding joy in the simplest things. Your laughter is my favorite sound.",
+      emoji: "😂",
+      photo: "/memories/smile.jpg"
     }
   ]
 

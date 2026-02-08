@@ -48,7 +48,7 @@ function Login({ onLogin }) {
     
     // Simulate API call
     setTimeout(() => {
-      if (formData.password.toLowerCase() === 'honey') {
+      if (formData.password.toLowerCase() === 'honey' || formData.password.toLowerCase() === 'nalli') {
         console.log('Login submitted:', formData)
         setIsLoading(false)
         setFormData({ password: '' })
@@ -123,7 +123,7 @@ function Login({ onLogin }) {
               {errors.password && <span className="error-message">{errors.password}</span>}
             </div>
 
-            <p className="hint-text">💭 Hint: It's what you call me when we're alone...</p>
+            <p className="hint-text">💭 Hint: It's what I call you when we're alone...</p>
 
             <button 
               type="submit" 
