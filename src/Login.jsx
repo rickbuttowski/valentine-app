@@ -48,7 +48,7 @@ function Login({ onLogin }) {
     
     // Simulate API call
     setTimeout(() => {
-      if (formData.password.toLowerCase() === 'honey' || formData.password.toLowerCase() === 'nalli') {
+      if (formData.password.toLowerCase() === 'nalli') {
         console.log('Login submitted:', formData)
         setIsLoading(false)
         setFormData({ password: '' })

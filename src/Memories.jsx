@@ -40,7 +40,7 @@ function Memories({ onBack }) {
       date: "August 24, 2025",
       description: "You have this special way of fixing everything, including my happiness. You're my remedy.",
       emoji: "🎥",
-      photo: "/memories/20-12-2025_eve_fixing_happines.jpg"
+      photo: "/memories/movie.jpeg"
     },
     {
       id: 5,
